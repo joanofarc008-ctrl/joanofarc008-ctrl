@@ -1,5 +1,8 @@
 
 <div align="center">
+<img src="The 10 Deep Learning Methods AI Practitioners Need to Apply.jfif" width="100%">
+</div>
+<div align="center">
 
 # JOJO 👋
 
@@ -31,7 +34,7 @@
 
 ## CONNECT WITH ME
 
-- Portfolio: https://myprofileosa.lovable.app/
+- Portfolio: https://osaigbovo-portfolio.vercel.app/
 - LinkedIn: https://linkedin.com/in/eloghosa-osaigbovo-77a335435
 
 ---
