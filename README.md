@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**joanofarc008-ctrl/joanofarc008-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# JOJO 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SOFTWARE ENGINEERING STUDENT
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&width=500&lines=Building+things+with+code;Learning+Python+%26+JavaScript;Exploring+Cloud+%26+Robotics" />
+
+</div>
+
+---
+
+## ABOUT ME
+
+- 🎓 Software Engineering student
+- 💻 Learning Python and JavaScript
+- ☁️ Exploring Cloud Development
+- 🤖 Interested in Robotics and AI
+- 🌱 Constantly learning and building.
+
+## TECH STACK
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+</p>
+
+## GITHUB STATISTICS
+
+<img src="https://github-readme-stats.vercel.app/api?username=joanofarc008-ctrl&show_icons=true&theme=tokyonight" />
+
+## CONNECT WITH ME
+
+- Portfolio: https://myprofileosa.lovable.app/
+- LinkedIn: https://linkedin.com/in/eloghosa-osaigbovo-77a335435
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 💙
+
+</div>
